@@ -71,6 +71,7 @@ export default function Home() {
           borderCollapse: "collapse",
           backgroundColor: "#f8f9fa"
         }}>
+            <h1>More 24 hours to go</h1>
           <thead style={{ backgroundColor: "#1565c0", color: "white" }}>
             <tr>
               <th style={thStyle}>Date</th>
