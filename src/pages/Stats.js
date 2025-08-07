@@ -25,6 +25,12 @@ export default function Stats() {
     { pos: 8, name: "Shardul Thakur", wickets: 18, avg: 25.6, eco: 8.0 },
     { pos: 9, name: "Axar Patel", wickets: 17, avg: 26.8, eco: 7.3 },
     { pos: 10, name: "Washington Sundar", wickets: 16, avg: 27.9, eco: 7.9 },
+      { pos: 1, name: "Mohammed Shami", wickets: 26, avg: 18.5, eco: 7.1 },
+    { pos: 2, name: "Mohammed Siraj", wickets: 24, avg: 19.2, eco: 7.3 },
+    { pos: 3, name: "Arshdeep Singh", wickets: 23, avg: 20.1, eco: 7.4 },
+    { pos: 4, name: "Yuzvendra Chahal", wickets: 22, avg: 21.4, eco: 7.6 },
+    { pos: 5, name: "Kuldeep Yadav", wickets: 21, avg: 22.1, eco: 7.2 },
+    { pos: 6, name: "Ravi Bishnoi", wickets: 20, avg: 23.0, eco: 7.5 },
   ];
 
   const allRounders = [
